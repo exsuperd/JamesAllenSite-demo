@@ -2,8 +2,8 @@
 <environment>
     <!-- Web -->
     <baseURL>https://www.jamesallen.com/</baseURL>
-    <defaultNavigationTimeout>300000</defaultNavigationTimeout>
-    <defaultTimeout>150000</defaultTimeout>
+    <defaultNavigationTimeout>30000</defaultNavigationTimeout>
+    <defaultTimeout>15000</defaultTimeout>
     <loginEmail>orinaaman@gmail.com</loginEmail>
     <loginPassword>Yuval2023!</loginPassword>
 </environment>
